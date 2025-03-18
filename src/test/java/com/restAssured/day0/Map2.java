@@ -27,21 +27,16 @@ public class Map2 {
 		m1.put("jack", 70);
 		
 		
-		//to get the data we get(key)--> value
-		
-		
+		//to get the data we get(key)--> value	
 		Integer jMarks=m1.get("jack");
 		System.out.println(jMarks);
-		
-		
+				
 		// i want to all the keys
 		
-		Set<String> allKeys   =m1.keySet();
-		
+		Set<String> allKeys   =m1.keySet();		
 		//how to get the data from 
 		
-		//Iterator , convert set into list
-		
+		//Iterator , convert set into list	
 		List<String> li=new ArrayList<>( allKeys);
 		
 		for(int i=0;i<li.size();i++)
