@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.restAssured.day2.JsonObjectPayload2">
+      <class name="com.restAssured.day3.PayloadFile">
         <methods>
-          <include name="payload2"/>
+          <include name="myTest"/>
         </methods>
-      </class> <!-- com.restAssured.day2.JsonObjectPayload2 -->
+      </class> <!-- com.restAssured.day3.PayloadFile -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
