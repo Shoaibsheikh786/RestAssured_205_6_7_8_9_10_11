@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-20T11:05:51 IST" name="Default suite" finished-at="2025-03-20T11:05:54 IST" duration-ms="3506">
+  <suite started-at="2025-03-21T11:02:43 IST" name="Default suite" finished-at="2025-03-21T11:02:47 IST" duration-ms="3420">
     <groups>
     </groups>
-    <test started-at="2025-03-20T11:05:51 IST" name="Default test" finished-at="2025-03-20T11:05:54 IST" duration-ms="3506">
-      <class name="com.restAssured.day3.PayloadFile">
-        <test-method signature="test1()[pri:0, instance:com.restAssured.day3.PayloadFile@6989da5e]" started-at="2025-03-20T11:05:51 IST" name="test1" finished-at="2025-03-20T11:05:54 IST" duration-ms="3426" status="PASS">
+    <test started-at="2025-03-21T11:02:43 IST" name="Default test" finished-at="2025-03-21T11:02:47 IST" duration-ms="3420">
+      <class name="com.restAssured.day4.CookiesValidation">
+        <test-method signature="test1()[pri:0, instance:com.restAssured.day4.CookiesValidation@dd05255]" started-at="2025-03-21T11:02:44 IST" name="test1" finished-at="2025-03-21T11:02:47 IST" duration-ms="3344" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-      </class> <!-- com.restAssured.day3.PayloadFile -->
+      </class> <!-- com.restAssured.day4.CookiesValidation -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
