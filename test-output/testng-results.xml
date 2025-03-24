@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-21T11:02:43 IST" name="Default suite" finished-at="2025-03-21T11:02:47 IST" duration-ms="3420">
+  <suite started-at="2025-03-24T11:00:05 IST" name="Default suite" finished-at="2025-03-24T11:00:08 IST" duration-ms="3239">
     <groups>
     </groups>
-    <test started-at="2025-03-21T11:02:43 IST" name="Default test" finished-at="2025-03-21T11:02:47 IST" duration-ms="3420">
-      <class name="com.restAssured.day4.CookiesValidation">
-        <test-method signature="test1()[pri:0, instance:com.restAssured.day4.CookiesValidation@dd05255]" started-at="2025-03-21T11:02:44 IST" name="test1" finished-at="2025-03-21T11:02:47 IST" duration-ms="3344" status="PASS">
+    <test started-at="2025-03-24T11:00:05 IST" name="Default test" finished-at="2025-03-24T11:00:08 IST" duration-ms="3239">
+      <class name="com.restAssured.day5.ParsingData">
+        <test-method signature="pathAndQuery()[pri:0, instance:com.restAssured.day5.ParsingData@10683d9d]" started-at="2025-03-24T11:00:05 IST" name="pathAndQuery" finished-at="2025-03-24T11:00:08 IST" duration-ms="3147" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test1 -->
-      </class> <!-- com.restAssured.day4.CookiesValidation -->
+        </test-method> <!-- pathAndQuery -->
+      </class> <!-- com.restAssured.day5.ParsingData -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

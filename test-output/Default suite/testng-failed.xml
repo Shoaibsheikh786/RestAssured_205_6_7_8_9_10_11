@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.restAssured.day3.PayloadFile">
+      <class name="com.restAssured.day5.ParsingData">
         <methods>
-          <include name="myTest"/>
+          <include name="pathAndQuery"/>
         </methods>
-      </class> <!-- com.restAssured.day3.PayloadFile -->
+      </class> <!-- com.restAssured.day5.ParsingData -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
