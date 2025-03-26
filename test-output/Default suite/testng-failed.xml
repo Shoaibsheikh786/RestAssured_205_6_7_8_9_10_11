@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.restAssured.day6.JsonSchem">
+      <class name="com.restAssured.day7.ApiChaining">
         <methods>
-          <include name="test"/>
+          <include name="createUser"/>
         </methods>
-      </class> <!-- com.restAssured.day6.JsonSchem -->
+      </class> <!-- com.restAssured.day7.ApiChaining -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
